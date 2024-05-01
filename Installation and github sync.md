@@ -1,4 +1,5 @@
-- How to download Visual Studio Code on iMac Desktop? | How to download VS Code on Mac Book pro Laptops?
+## How to download Visual Studio Code on iMac Desktop? | How to download VS Code on Mac Book pro Laptops?
+
 Visual Studio Code can be installed on any desktops. Find steps for installing in Macbook pro Laptop or Desktop.
 
 VS Code Installation Steps:
@@ -25,18 +26,25 @@ You may see Visual Studio Code installed.
 
 
 
-- How to configure VS Code to integrate with GitHub | Working with GitHub in VS Code | GitHub Visual Studio Code Integration
+## How to configure VS Code to integrate with GitHub | Working with GitHub in VS Code | GitHub Visual Studio Code Integration
+
 GitHub is popular Git based SCM, hosted on cloud for storing and sharing code amongst developers. Using GitHub with Visual Studio Code lets you share your source code and collaborate with other developers right within your editor. 
 
 
 
 
 There are many ways to integrate with GitHub, using the website or using Git client(CLI) or using VS Code as well. We will be learning how to integrate with GitHub from VS Code. Git Support is provided out-of-the-box in VS Code.
+
 Pre-requisites:
+
 GitHub.com account created
+
 Git client is installed on your local machine
+
 VS Code installed
+
 Make sure Git is Enabled in Visual Studio Code
+
 Let's make sure Git is Enabled in VS Code. Click on Manage Icon in the bottom left in VS Code. Click on Settings. 
 
 
